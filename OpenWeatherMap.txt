@@ -1,0 +1,5 @@
+https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
+
+https://api.openweathermap.org/data/2.5/weather?q={city name}&appid=2371457986af435418cd3666d3191525
+
+url = "https://api.openweathermap.org/data/2.5/weather?q=" + city_name + "&appid=2371457986af435418cd3666d3191525"
